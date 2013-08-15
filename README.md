@@ -42,3 +42,13 @@ path of your Aquila installation:
 
 If all goes well, you should see a textual "plot" of a sine wave as a proof
 that the example has been built, linked and run correctly.
+
+Author
+------
+
+ * [Zbigniew Siciarz](http://siciarz.net) (zbigniew at siciarz dot net)
+
+License
+-------
+
+This work is released under the MIT license. A copy of the license is provided in the LICENSE file.
